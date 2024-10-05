@@ -1,0 +1,9 @@
+{
+  "name": "hcu-todoapp",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/hcu-todoapp/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project hcu-todoapp --web",
+  "targets": {}
+}
