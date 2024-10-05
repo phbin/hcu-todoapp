@@ -1,0 +1,9 @@
+{
+   "name": "TaskItem",
+   "$schema": "../node_modules/nx/schemas/project-schema.json",
+   "sourceRoot": "TaskItem/src",
+   "projectType": "library",
+   "tags": [],
+   "// targets": "to see all targets run: nx show project TaskItem --web",
+   "targets": {}
+}
