@@ -1,53 +1,25 @@
 {
-  "tasks": [
-    {
-      "id": 1,
-      "name": "Clean floor",
-      "duration": "07/10/2024",
-      "checked": 0,
-      "createdAt": "06/10/2024"
-    },
-    {
-      "id": 2,
-      "name": "Do homework",
-      "duration": "07/10/2024",
-      "checked": 1,
-      "createdAt": "06/10/2024"
-    },
-    {
-      "id": "cc428eb8948",
-      "checked": 0,
-      "createdAt": "2024-10-05T18:56:20.897Z"
-    },
-    {
-      "id": "945525aded6",
-      "name": "Bin",
-      "checked": 0,
-      "createdAt": "2024-10-05T18:57:40.261Z"
-    },
-    {
-      "id": "45525aded64",
-      "name": "Bin",
-      "checked": 0,
-      "createdAt": "2024-10-05T18:57:52.660Z"
-    },
-    {
-      "id": "5525aded641",
-      "name": "Bin",
-      "checked": 0,
-      "createdAt": "2024-10-05T18:57:53.620Z"
-    },
-    {
-      "id": "525aded6415",
-      "name": "Bin",
-      "checked": 0,
-      "createdAt": "2024-10-05T18:57:54.412Z"
-    },
-    {
-      "id": "25aded64154",
-      "name": "Bin",
-      "checked": 0,
-      "createdAt": "2024-10-05T18:58:06.780Z"
-    }
-  ]
+   "tasks": [
+      {
+         "id": 1,
+         "name": "Clean floor",
+         "duration": "2024-10-07T10:07:24.121Z",
+         "checked": 1,
+         "createdAt": "2024-10-05T18:57:40.261Z"
+      },
+      {
+         "id": 2,
+         "name": "Do homework",
+         "duration": "2024-10-07T10:07:24.121Z",
+         "checked": 0,
+         "createdAt": "2024-10-05T18:57:40.261Z"
+      },
+      {
+         "id": 3,
+         "name": "Meal preparation",
+         "duration": "2024-10-07T10:07:24.121Z",
+         "checked": 1,
+         "createdAt": "2024-10-05T18:57:40.261Z"
+      }
+   ]
 }

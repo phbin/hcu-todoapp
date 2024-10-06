@@ -14,6 +14,7 @@
       "@hookform/resolvers": "^3.9.0",
       "@mui/icons-material": "^6.1.2",
       "@mui/material": "^6.1.2",
+      "@mui/x-date-pickers": "^7.19.0",
       "date-fns": "^4.1.0",
       "json-server": "^1.0.0-beta.3",
       "react": "18.3.1",
